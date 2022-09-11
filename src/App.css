@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.App {
+  color: #000;
+}
+
+body {
+	font-family: 'Raleway', sans-serif;
+	background: linear-gradient(180deg, #F3F3FB 0%, #FDFBFD 100%);
+}
+
+.user-message {
+	font-size: 16px;
+	line-height: 26px;
+	color: #FFFFFF;
+	background: linear-gradient(90.54deg, #60A9F6 0%, #2A8BF2 100%);
+	box-shadow: 10px 10px 25px rgba(42, 139, 242, 0.1), 15px 15px 35px rgba(42, 139, 242, 0.05), 10px 10px 50px rgba(42, 139, 242, 0.1);
+	border-radius: 0px 10px 10px 10px;
+	padding: 10px 15px;
+	margin-left: 40px;
+}
+.user-message {
+	font-size: 16px;
+	line-height: 26px;
+	color: #FFFFFF;
+	background: linear-gradient(90.54deg, #60A9F6 0%, #2A8BF2 100%);
+	box-shadow: 10px 10px 25px rgba(42, 139, 242, 0.1), 15px 15px 35px rgba(42, 139, 242, 0.05), 10px 10px 50px rgba(42, 139, 242, 0.1);
+	border-radius: 0px 10px 10px 10px;
+	padding: 10px 15px;
+	margin-left: 40px;
+}
+.message {
+	background: #FFFFFF;
+	padding: 10px 15px;
+	border-radius: 10px 10px 0px 10px;
+	color: #707C97;
+	margin-right: 40px;
+	border: 1px solid rgba(112, 124, 151, 0.25);
+	box-shadow: 10px 10px 25px rgba(112, 124, 151, 0.05), 15px 15px 35px rgba(112, 124, 151, 0.05);
+}
